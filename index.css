@@ -1,0 +1,38 @@
+.top-left {
+    padding-top: 10px;
+    background-color: purple;
+    width: 29%;
+    float: left;
+    height: 30%;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bottom-left{
+    background-color: blue;
+    float: left;
+    height: 50%;
+    display: block;
+}
+.right_panel{
+    padding-top: 10px;
+    background-color: peachpuff;
+    width: 70%;
+    float: left;
+    height: 700px;
+    text-align: center;
+}
+.nav_bar {
+    background-color: lightseagreen;
+    width: 99%;
+}
+.inline-block{
+    padding: 15px;
+    display: inline-block;
+    height: 20px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: mediumaquamarine;
+}
