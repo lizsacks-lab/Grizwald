@@ -1,10 +1,12 @@
 
+.left-panel{
+    float: left;
+    width: 29%;
+}
 
 .top-left{
     background-color: purple;
-    width: 29%;
     height: 300px;
-    float: left;
     text-align: center;
     color: white;
     font-size: 24px;
@@ -12,14 +14,13 @@
 }
 .bottom-left{
     background-color: blue;
-    width: 29%;
     height: 600px;
 }
 .right_panel{
     background-color: peachpuff;
     width: 70%;
     height: 900px;
-    float: right;
+    float: left;
 }
 .main-image{
     float: left;
